@@ -16,8 +16,8 @@ Translations:
 
   confirm: "Vahvista"
   cancel: "Peruuta"
-  yes: "Kyllä"
-  no: "Ei"
+  'yes': "Kyllä"
+  'no': "Ei"
   continue: "Jatka"
   loading: "Ladataan..."
   success: "Onnistui"

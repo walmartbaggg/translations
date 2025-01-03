@@ -16,8 +16,8 @@ Translations:
 
   confirm: "确定"
   cancel: "取消"
-  yes: "是"
-  no: "否"
+  'yes': "是"
+  'no': "否"
   continue: "继续"
   loading: "加载中..."
   success: "成功"

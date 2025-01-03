@@ -16,8 +16,8 @@ Translations:
 
   confirm: "Potwierdź"
   cancel: "Anuluj"
-  yes: "Tak"
-  no: "Nie"
+  'yes': "Tak"
+  'no': "Nie"
   continue: "Kontynuuj"
   loading: "Ładowanie..."
   success: "Sukces"

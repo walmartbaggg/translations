@@ -26,7 +26,7 @@ Translations:
   # ^ Usually used in a statement that says something was unsuccessful. Example: [Something was not completed] 'Error!'
   install: "Letöltés"
   loading: "Betöltés..."
-  no: "Nem"
+  'no': "Nem"
   search: "Keresés"
   set: "Beállít"
   # ^ Something was set. Example: [Stay on top set to true] 'Set'
@@ -37,7 +37,7 @@ Translations:
   # ^ Usually used in a statement that says something was successful. Example: [Something was completed] 'Success!'
   uninstall: "Eltávolítás"
   unknown: "Ismeretlen"
-  yes: "Igen"
+  'yes': "Igen"
 
   # MARK: Backend
 

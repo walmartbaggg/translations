@@ -16,8 +16,8 @@ Translations:
 
   confirm: "Onayla"
   cancel: "İptal"
-  yes: "Evet"
-  no: "Hayır"
+  'yes': "Evet"
+  'no': "Hayır"
   continue: "Devam Et"
   loading: "Yükleniyor..."
   success: "Başarılı"
