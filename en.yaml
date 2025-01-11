@@ -355,6 +355,8 @@ Translations:
   acc.settings.5.description: "Do we drive a percentage faster than the speed limit, or do we add a set amount?"
   acc.settings.6.name: "Show Notifications"
   acc.settings.6.description: "Show a popup when the app is slowing down due to any obstructions."
+  acc.settings.7.name: "Speed when API speed limit is 0"
+  acc.settings.7.description: "The speed to which will be driven when the API reads a speed limit of 0 or below."
 
   # MARK: Plugin keys
 
