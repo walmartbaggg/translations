@@ -273,6 +273,8 @@ Translations:
   plugins.trafficlightdetection.description: "Detects traffic lights using computer vision and can display them in an output window. It communicates with the CruiseControl plugin to stop the truck at red traffic lights."
   plugins.truckstats: "Truck Stats"
   plugins.truckstats.description: "This plugin shows some statistics about the truck, route and the game."
+  plugins.smartlanechange: "Smart Lane Change"
+  plugins.smartlanechange.description: "Automatically changes lanes based on traffic conditions and optimal route"
 
   # MARK: Plugin settings
 
@@ -361,6 +363,14 @@ Translations:
   acc.settings.6.description: "Show a popup when the app is slowing down due to any obstructions."
   acc.settings.7.name: "Speed when API speed limit is 0"
   acc.settings.7.description: "The speed to which will be driven when the API reads a speed limit of 0 or below."
+  smart_lane_change.settings.1.name: "Side Safety Distance"
+  smart_lane_change.settings.1.description: "Minimum safe distance (in meters) required beside the truck before changing lanes"
+  smart_lane_change.settings.2.name: "Forward Safety Distance"
+  smart_lane_change.settings.2.description: "Minimum safe distance (in meters) required in front of the truck before changing lanes"
+  smart_lane_change.settings.3.name: "Minimum Lane Change Speed"
+  smart_lane_change.settings.3.description: "Minimum speed (in km/h) required to perform a lane change"
+  smart_lane_change.settings.4.name: "Speed Difference Threshold"
+  smart_lane_change.settings.4.description: "Minimum speed difference (in km/h) compared to other vehicle to trigger lane change"
 
   # MARK: Plugin keys
 
